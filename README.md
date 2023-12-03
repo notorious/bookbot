@@ -8,5 +8,5 @@ BookBot is my first git project!
 
 setup:
 
-* place text file into books dir
+* place text file into books dir (create your own books dir)
 * change file_name with the text file name with .txt extension (ex: frankstein.txt)
